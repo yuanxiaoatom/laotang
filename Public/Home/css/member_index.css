@@ -1,0 +1,51 @@
+﻿@charset "utf-8";
+/* CSS Document */
+body{ font-family:'微软雅黑'; font-size:12px; color:#666666}
+body,hr,ul,li,a,p,h1,h2,h3,table,span{ padding:0; margin:0;}
+a:link,a:visited{ color:#000000; text-decoration:none;}
+ul,li,img{ list-style:none; margin:0; padding:0; border:none;}
+.clear{ clear:both}
+.top{ height:40px; width:100%; background-color:#fcfcfc; border-bottom:1px solid #ccc;}
+.top .login{ width:1000px; line-height:40px; margin:0 auto; text-align:right;}
+.top .login span{ padding:0 5px;}
+.top .login .span-right-border{ border-left:1px solid #ccc;}
+.box{ width:1000px; margin:0 auto}
+.box .logo-serch{ padding-top:15px}
+.box .logo-serch .logo{ float:left;}
+.box .logo-serch .address{ float:left; padding-top:40px; padding-left:15px;}
+.box .logo-serch .serch{ padding-left:100px; float:left;}
+.box .logo-serch .serch input[type=text]{ border:1px solid #12b7f5; height:37px; width:464px; margin-top:30px;}
+.box .logo-serch .serch input[type=button]{ background:#12b7f5; height:41px; width:88px; margin-top:30px; border:none; color:#fff; font-size:14px;}
+.box .nav-type{ padding-top:20px;}
+.box .nav-type .type{ width:250px; height:30px; background-color:#12b7f5; float:left; text-align:center; color:#fff; line-height:30px; font-size:18px;}
+.float-left{ float:left}
+.float-right{ float:right}
+.box .nav-type .nav{ float:left;}
+.box .nav-type .nav li{ float:left; padding-left:5px; line-height:30px; height:30px; font-size:18px; color:#000000}
+.box .banner{ margin-top:20px;}
+.box .person-info{ padding-top:10px;}
+.box .person-info .nav{ float:left; width:185px;min-height:500px; background-color:#fafafa;}
+.box .person-info .nav ul{ padding:35px;}
+.box .person-info .nav li{ line-height:50px; font-size:18px; color:#7a7a7a;}
+.box .person-info .nav .style{ border-bottom:1px solid #ededed;}
+.box .person-info .a{ color:#7a7a7a}
+.box .person-info .info{ width:760px; float:right;}
+.box .person-info .info .face{ height:120px; width:100px; float:left}
+.box .person-info .info .mobile{ height:120px; line-height:120px; float:left; color:#000000; padding-left:30px; font-size:18px;}
+.box .person-info .info-mobile{ border-bottom:1px solid #d2d2d2}
+.box .person-info .content{ border-bottom:1px solid #f0f0f0; border-left:1px solid #f0f0f0; border-right:1px solid #f0f0f0; border-top:2px solid #f0f0f0; margin-top:10px; min-height:200px;}
+.box .person-info .content .xinxihao{ height:35px; background-color:#fafafa; line-height:35px; padding-left:10px;}
+.box .person-info .content .neirong{ padding-top:20px}
+.box .person-info .content .neirong .left-wuba{ width:300px; border-right:1px solid #ccc; float:left; padding-left:20px;}
+.box .person-info .content .neirong .left-wuba p{ padding-left:10px; padding-bottom:5px;}
+.box .person-info .content .neirong .left-wuba .p{ font-size:14px; color:#000;}
+.box .person-info .content .neirong .xianshizhong{ padding-left:20px; color:red; width:400px; }
+.footer{ height:230px; width:100%; background:url(../images/footer_bg.png) repeat-x;}
+.footer .footer-box{ width:600px; margin: 0 auto; color:#fff; padding-top:45px;}
+.footer .footer-box .auout-us{}
+.footer .footer-box .auout-us a{ color:#fff;}
+.footer .footer-box .auout-us li{ line-height:25px; width:115px; text-align:center; font-size:14px;}
+.footer .footer-box .auout-us .title{ font-size:16px;}
+.footer .footer-box  p{ padding-bottom:20px;}
+.footer .banquan{ width:400px; color:#fff; margin:0 auto; margin-top:40px; text-align:center}
+

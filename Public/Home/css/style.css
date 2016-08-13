@@ -1,0 +1,49 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.box .banner-left{ float:left; width:250px;}
+.box .banner-left ul{ padding-top:5px;}
+.box .banner-left li{ height:65px; line-height:65px; border-bottom:1px solid #ccc; font-size:16px;	}
+.box .banner-left li span{ padding-right:10px;}
+.box .banner-left li .span1{ font-size:18px; color:#000;}
+.box .banner-left .no-border{ border:none;}
+.box .banner-right{ float:left;}
+.box .guanggao{ padding-top:10px;}
+.box .guanggao li{ margin-bottom:5px;}
+.investment_f{ width:1000px; margin:15px auto}
+.investment_f .title-biaoshi{ float:left; width:100px; height:44px; font-size:24px; line-height:46px; padding-left:30px; color:#000; background:url(../images/biaozhi.png) no-repeat 0 15px}
+.investment_f .investment_title{height:44px; width:830px; overflow:hidden; float:left;}
+.investment_title div{ width:100px; font-size:16px; color:#000; height:44px; float:left; margin-right:6px; display:inline;  text-align:center; line-height:46px;  cursor:pointer; margin-left:1px;}
+.investment_title a,.investment_title a:link,.investment_title a:visited,.investment_title a:hover{ color:#666666;width:100px; height:44px;display:inline-block}
+.investment_title div.on a,.investment_title div.on a:link,.investment_title div.on a:visited,.investment_title div.on a:hover{ color:#666666}
+.investment_title div.on{color:#666666}
+.investment_con{ clear:both; background:#fff;}
+.investment_con_list{display:none;}
+.investment_f .new-list-left{ width:330px; float:left;}
+.investment_f .new-list-left li{ line-height: 30px; font-size:15px; color:#000; border-bottom:1px #ccc dashed; padding-left:15px; background:url(../images/dian.png) no-repeat 0 12px;}
+.investment_f .new-list-left span{ font-size:12px; float:right; overflow:hidden;}
+.investment_f .new-list-right{ width:660px; float:right; padding-top:5px;}
+.investment_f .chanye-yuanqu{ }
+.investment_f .chanye-yuanqu li{ border:1px solid #ccc; width:240px; overflow:hidden; float:left; margin-left:8px; margin-top:20px;}
+.investment_f .chanye-yuanqu .pr-1{ padding:10px 20px 0 20px;;}
+.investment_f .chanye-yuanqu .pr-2{ width:70px; height:30px; line-height:30px; background-color:#12b7f5; color:#fff; margin-right:5px; margin-bottom:5px; text-align:center; line-height:30px; }
+.investment_f .chanye-yuanqu .pr-2 a{ color:#fff; font-size:16px;}
+.margin-none{ margin:0; padding:0; margin-right:0;}
+.box .kaifaqu-new{ width:240px; float:left; padding-left:8px; margin-top:30px;}
+.box .kaifaqu-new li{ line-height:30px; font-size:12px; color:#000; border-bottom:1px dashed #ccc; background:url(../images/news-png.png) no-repeat 0 10px; padding-left:20px;}
+.box .kaifaqu-new .li-holt{background:url(../images/holt.png) no-repeat right;}
+.box .kaifaqu-new li span{ width:30px;}
+.investment_f .server{ width:300px; margin-top:20px; border:1px solid #ccc; padding:10px; overflow:hidden; float:left;}
+.investment_f .marign-left-server{ margin-left:17px;}
+.investment_f .server .imgs{ width:75px; float:left;}
+.investment_f .server .imgs-right{ float:left;}
+.investment_f .server p{ line-height:35px; height:35px; margin-left:10px; color:#000; font-size:14px;}
+.investment_f .server .pr03{ font-size:18px; color:#12b7f5;}
+.investment_f .server .chakan{ border-top:1px solid #ccc; margin-top:10px; height:30px; padding:10px;}
+.investment_f .server .chakan span{ font-size:18px; color:#12b7f5;float:right; height:30px; line-height:30px; text-align:center; width:120px;}
+.investment_f .server .chakan .chakan-span{ background:#12b7f5; color:#fff;}
+.investment_f .server .chakan .chakan-span a{ color:#fff;}
+
+
+
+
+
